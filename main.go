@@ -2,6 +2,6 @@ package main
 
 import "github.com/skikkh/kctl/cmd"
 
-fumc main() {
+func main() {
 	cmd.Execute()
 }
